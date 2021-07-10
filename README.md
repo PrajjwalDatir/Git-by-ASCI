@@ -1,4 +1,4 @@
-# Git & Github WorkShop By PrajjwalDatir Arranged via ASCI COEP
+# Git & Github WorkShop By Prajjwal Datir Organized by ASCI COEP
 
 # ![PPT](https://github.com/PrajjwalDatir/Git-by-ASCI/blob/main/resources/Git-Github-Session-PrajjwalDatir.ppt)
 
